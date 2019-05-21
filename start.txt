@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test git quick demoo
+=======
+test git quick demo
+from git hub
+>>>>>>> c42876804d2c32f1f3dd1f0c5cd896b23a1d2452
